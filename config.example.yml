@@ -1,0 +1,14 @@
+# Window related
+window:
+  # Window width
+  width: 600
+  # Window height
+  height: 600
+  # Window title
+  title: "OpenGL Shader Player"
+# Shader name
+# If set to `tutorial`, the program will try to find and
+# load `shaders/tutorial.vert` and `shaders/tutorial.frag`.
+shader: "tutorial"
+# Target FPS
+fps: 60

@@ -1,0 +1,5 @@
+/.vscode
+
+/target
+/shaders
+config.yml
